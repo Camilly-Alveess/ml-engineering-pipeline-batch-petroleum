@@ -15,8 +15,6 @@ Projeto desenvolvido como Tech Challenge da Pós Tech FIAP (Machine Learning Eng
 > partitions) → Glue PySpark job (7-day moving average, automatic Data Catalog registration) →
 > Athena SQL → Python visualization.
 
-**Vídeo de apresentação:** [assistir](COLE-O-LINK-DO-VIDEO-AQUI)
-
 ---
 
 ## Arquitetura
@@ -130,7 +128,7 @@ python3 src/visualization/visualizar_media_movel.py   # gera media_movel_petrole
 
 ## Resultados
 
-![Preço diário vs. média móvel de 7 dias](docs/images/media_movel_petroleo.png)
+![Preço diário vs. média móvel de 7 dias](docs/media_movel_petroleo.png)
 
 *Painel superior: histórico completo. Painel inferior: últimos 5 anos, onde a média móvel de
 7 dias suaviza a volatilidade diária e evidencia a tendência de curto prazo.*
@@ -160,7 +158,7 @@ python3 src/visualization/visualizar_media_movel.py   # gera media_movel_petrole
 
 ## Autora
 
-**<Seu nome>** — [LinkedIn](COLE-O-LINK) · [GitHub](COLE-O-LINK)
+**Camilly Alves** — [LinkedIn](www.linkedin.com/in/camillyalvesia) · [GitHub](https://github.com/Camilly-Alveess)
 
 ## Fonte dos dados
 
