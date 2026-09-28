@@ -1,0 +1,6 @@
+# Ingestão e visualização (o Glue Job usa o ambiente gerenciado da AWS)
+requests
+pandas
+pyarrow
+boto3
+matplotlib
